@@ -5,6 +5,12 @@ body{
   font-family: 'PT Sans', sans-serif;
   
 }
+
+.container_b{
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
 h2{
   padding-top: 1.5rem;
 }
